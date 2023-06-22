@@ -15,7 +15,7 @@ home = ["HTML", "RSS", "Algolia"]
 [params]
   header_image = "img/home-bg-jeep.jpg"
   SEOTitle = "Dr.Yim Blog"
-  description = "Share what I have learned, witnessed, and heard. Promoting health, seeking justice, and achieving financial freedom.""
+  description = "Share what I have learned, witnessed, and heard. Promoting health, seeking justice, and achieving financial freedom."
   keyword = " Doctor, Medicine, Health, Blog, 博客, 个人网站, Law, Social, Finance, Money"
   slogan = "Open mind, Crystallize wisdom"
 
