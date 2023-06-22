@@ -28,7 +28,7 @@ jobs:
             - name: Deploy Web
               uses: peaceiris/actions-gh-pages@v3
               with:
-                  PERSONAL_TOKEN: ${{ secrets.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 }}
+                  PERSONAL_TOKEN: ${{ secrets.PERSONAL_TOKEN }}
                   EXTERNAL_REPOSITORY: yimmy23/yimmy23.github.io
                   PUBLISH_BRANCH: main
                   PUBLISH_DIR: ./public
