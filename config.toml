@@ -1,4 +1,4 @@
-baseurl = "https://openmind.fit"
+baseurl = "https://www.openmind.fit"
 title = "Wisdom Furnace"
 theme = "hugo-theme-cleanwhite"
 languageCode = "en-us"
